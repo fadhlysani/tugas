@@ -1,5 +1,5 @@
 /***********************
- * Soal Pertama 
+ * Soal No. 1 (Menyusun kata menjadi kalimat) 
  * *********************/
 var perkenalan = 'Nama saya adalah';
 var nama = "Muhammad Fadhly Sani"; // isi dengan nama kalian
