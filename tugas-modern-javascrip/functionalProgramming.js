@@ -87,3 +87,5 @@ phones.forEach(item => {
     console.log(`${item.name} (${item.year}) - Colors: ${item.colors.join(", ")}`);
 });
 
+
+
